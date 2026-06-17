@@ -10,7 +10,7 @@
 
 ## What is Shiro ?
 
-Shiro [LOX // 03] is a fully custom desktop audio/stream controller — a single unique unit combining a **Stream Deck**, a **hardware audio mixer**, and a **Bluetooth receiver** into one clean white enclosure.
+Shiro [LOX // 04] is a fully custom desktop audio/stream controller — a single unique unit combining a **Stream Deck**, a **hardware audio mixer**, and a **Bluetooth receiver** into one clean white enclosure.
 
 Built for a streaming and gaming setup, it replaces both a software mixer and a Stream Deck with a single physical device that sits on the desk and does everything.
 
@@ -35,7 +35,7 @@ Built for a streaming and gaming setup, it replaces both a software mixer and a 
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│                   SHIRO [LOX // 03]                 │
+│                   SHIRO [LOX // 04]                 │
 │                                                     │
 │  ┌──────────┐   ┌──────────────────────────────┐   │
 │  │  RP2040  │   │          ESP32-S3            │   │
@@ -115,10 +115,10 @@ Built for a streaming and gaming setup, it replaces both a software mixer and a 
 ## Repository Structure
 
 ```
-shiro-lox03/
+shiro-lox04/
 ├── README.md
 ├── docs/
-│   └── Shiro_LOX03_Projet.docx     # Document de projet complet
+│   └── Shiro_LOX04_Projet.docx     # Document de projet complet
 ├── firmware/
 │   ├── esp32-s3/                    # Firmware ESP32-S3 (Arduino/IDF)
 │   │   ├── src/
@@ -154,7 +154,7 @@ shiro-lox03/
 - [ ] PCB custom (JLCPCB)
 - [ ] Boîtier (impression 3D / alu)
 - [ ] VU mètres WS2812B
-- [ ] Sérigraphie Shiro [LOX // 03]
+- [ ] Sérigraphie Shiro [LOX // 04]
 
 ---
 
