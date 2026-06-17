@@ -175,4 +175,6 @@ shiro-lox03/
 
 **Loxehes** — [github.com/Loxehes](https://github.com/Loxehes)
 
-> *Shiro [LOX // 03] — une seule unité, faite pour durer.*
+>![Shiro LOX // 04](assets/renders/Shiro-lox04_vue_1.png)
+
+![Shiro LOX // 04](assets/renders/Shiro-lox04_vue_2.png)
